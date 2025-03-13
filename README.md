@@ -15,5 +15,6 @@ A minimal, offline-first productivity app built with Next.js. Manage tasks and n
    git clone https://github.com/your-username/CheyToDo.git
    cd CheyToDo
 2. Install dependencies:
-    ```npm install
+    ```bash
+      npm install
 ```
