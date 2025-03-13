@@ -17,4 +17,6 @@ A minimal, offline-first productivity app built with Next.js. Manage tasks and n
 2. Install dependencies:
     ```bash
       npm install
-```
+3. Run the app:
+```bash
+npm run dev
